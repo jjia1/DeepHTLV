@@ -73,6 +73,10 @@ To decode and understand more about the <i>cis</i>-regulatory factors about HTLV
 ```
 python DeepHTLV.py 
 ```
+
 ### Citation and contact
 Cite DeepHTLV.  <br>
 For any questions please contact [Haodong Xu](mailto:haodong.xu@uth.tmc.edu?subject=[GitHub]%20Source%20Han%20Sans) or [Johnathan Jia](mailto:jdjia93@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
+
+### Acknowledgements
+Our code was adapted from code developed by the authors [DeepHINT](https://github.com/nonnerdling/DeepHINT) and [iDeepA](https://github.com/xypan1232/iDeepA).
